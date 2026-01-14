@@ -1,4 +1,8 @@
-Sports Analytics & Strategy
+---
+layout: single
+title: "Sports Analytics & Strategy"
+permalink: /sports-ai/
+---
 
 I design data-driven intelligence systems that explain why matches are won, which players truly matter, and how conditions and pressure shape outcomes.
 My work blends cricketing context, machine learning, and clear storytelling to support decision-making for teams, analysts, fantasy platforms, and broadcasters.
