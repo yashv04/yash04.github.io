@@ -56,7 +56,7 @@ Built a real-time win probability engine that updates dynamically using ball-by-
 
 **Use cases:** Broadcasting graphics, analyst decision support, fantasy insights  
 
-🔗 https://live-win-probability-mxjsrxex83jok9smfqwqyf.streamlit.app/
+<https://live-win-probability-mxjsrxex83jok9smfqwqyf.streamlit.app/>
 
 ---
 
@@ -66,7 +66,7 @@ A probabilistic model to estimate ODI match outcomes using team strength, venue,
 
 - Feature engineering from cleaned ODI match & delivery datasets  
 - Designed for analyst previews and fantasy platforms  
-
+<https://odi-pre-match-win-predictor-cvacrsmbuds2t5cn5bdpwg.streamlit.app/>
 ---
 
 ##  Player Impact & Performance Intelligence
@@ -99,7 +99,7 @@ Quantified player performance in high-pressure situations such as tight chases a
 - Identified consistent clutch performers  
 - Useful for leadership roles and fantasy captaincy decisions  
 
-🔗 https://public.tableau.com/app/profile/yash.vardhan6567/viz/T20IndexDashboard/T20PressureIndexDashboard
+<https://public.tableau.com/app/profile/yash.vardhan6567/viz/T20IndexDashboard/T20PressureIndexDashboard>
 
 ---
 
@@ -110,7 +110,7 @@ Interactive dashboard analyzing batter–bowler performance across phases and ve
 - Phase-wise insights: Powerplay, Middle, Death  
 - Identified exploitable matchups and vulnerabilities  
 
-🔗 https://public.tableau.com/app/profile/yash.vardhan6567/viz/BatsmanvsBowlersMatchup/BatsmanvsBowlerMatchupDashboardTillIPL2024
+<https://public.tableau.com/app/profile/yash.vardhan6567/viz/BatsmanvsBowlersMatchup/BatsmanvsBowlerMatchupDashboardTillIPL2024>
 
 ---
 
@@ -122,7 +122,7 @@ Machine learning–driven scouting system using **K-Means clustering** on normal
 - PCA & t-SNE for interpretability  
 - Identification of undervalued players  
 
-🔗 https://ai-powered-player-scouting-model-86df5borqdxszypxupgr5y.streamlit.app/
+<https://ai-powered-player-scouting-model-86df5borqdxszypxupgr5y.streamlit.app/>
 
 ---
 
@@ -138,7 +138,7 @@ Venue-centric analytics platform to decode how stadiums influence scoring, toss 
 - **XGBoost-powered** score & win predictors  
 - Venue-specific player recommendations  
 
-🔗 https://cricket-venue-intelligence-app-mkbwla6gsdfdxqpdguihnx.streamlit.app/
+<https://cricket-venue-intelligence-app-mkbwla6gsdfdxqpdguihnx.streamlit.app/>
 
 ---
 
@@ -157,7 +157,7 @@ Pitch behavior classification using **CNN-based visual analysis** combined with 
 
 Interactive analytical tribute capturing evolution, overseas dominance, partnerships, and leadership phases.
 
-🔗 https://virat-test-story-7doohhp63qt4dyyfg7wx8n.streamlit.app/
+<https://virat-test-story-7doohhp63qt4dyyfg7wx8n.streamlit.app/>
 
 ---
 
@@ -165,8 +165,8 @@ Interactive analytical tribute capturing evolution, overseas dominance, partners
 
 Dual-dashboard project translating Rohit Sharma’s T20I and Test careers into data-driven narratives.
 
-🔗 Test: https://rohit-sharma-test-career-ycbroxcnwmefkesca4kstx.streamlit.app/  
-🔗 T20I: https://rohit-sharma-t20i-dashboard-nohflzrqecgvcaiezyxxhg.streamlit.app/
+Test: <https://rohit-sharma-test-career-ycbroxcnwmefkesca4kstx.streamlit.app/> 
+T20I: <https://rohit-sharma-t20i-dashboard-nohflzrqecgvcaiezyxxhg.streamlit.app/>
 
 ---
 
