@@ -3,6 +3,7 @@ layout: single
 title: "How I Build Sports Intelligence Systems"
 permalink: /systems/
 ---
+# How I Build Sports Intelligence Systems
 
 ## Overview
 
