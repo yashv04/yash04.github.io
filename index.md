@@ -3,7 +3,7 @@ layout: single
 title: "Yash Vardhan"
 permalink: /
 ---
-
+# Yash Vardhan
 ## Sports Performance Computer Vision Analyst  
 **Cricket & Badminton**
 
