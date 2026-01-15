@@ -63,4 +63,4 @@ The goal is always the same:
 - **Portfolio:** <https://yashv04.github.io>
 - **GitHub:** <https://github.com/yashv04>  
 - **LinkedIn:** <https://www.linkedin.com/in/yash-vardhan-5b3956169/> 
-- **Resume:** <https://acrobat.adobe.com/id/urn:aaid:sc:AP:c4553bf5-2329-4bc6-b7ea-8426ab31d447>
+- **Resume:** <https://acrobat.adobe.com/id/urn:aaid:sc:AP:b899ad1c-48ee-413b-bfea-fe0b6f8db801>
